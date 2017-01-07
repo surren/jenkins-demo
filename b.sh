@@ -1,5 +1,5 @@
 #!/bin/bash
-b=3
+b=33
 if [ $b -gt 10 ]
 then
 echo "B is greater"
