@@ -1,5 +1,5 @@
 #!/bin/bash
-a=3
+a=7
 if [ $a -gt 5 ]
 then
 echo "A is greater"
